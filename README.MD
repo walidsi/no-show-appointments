@@ -1,5 +1,6 @@
-In this project we will be analyzing the No-Show Appointments dataset. The dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointments. A number of characteristics about the patient are included in each row and we need to find out the factors that are important in predicting whether a patient shows-up for the appointment or not. We seek answers to the following questions:
+<b>In this project we will be analyzing the No-Show Appointments dataset. The dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointments. A number of characteristics about the patient are included in each row and we need to find out the factors that are important in predicting whether a patient shows-up for the appointment or not.</b>
 
+<b>We seek answers to the following questions:</b>
 - Which gender is more committed to showing up for their appointments?
 - Are older people more likely to miss/attend their appointments?
 - Does scholarship (social welfare membership status) affect patient no-show?
