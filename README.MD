@@ -1,3 +1,12 @@
+# no-show-appointments
+
+![Contributors](https://img.shields.io/github/contributors/walidsi/no-show-appointments?style=plastic)
+![Forks](https://img.shields.io/github/forks/walidsi/no-show-appointments)
+![Downloads](https://img.shields.io/github/downloads/walidsi/no-show-appointments/total)
+![Stars](https://img.shields.io/github/stars/walidsi/no-show-appointments)
+![Licence](https://img.shields.io/github/license/walidsi/no-show-appointments)
+![Issues](https://img.shields.io/github/issues/walidsi/no-show-appointments)
+
 <b>In this project we will be analyzing the No-Show Appointments dataset. The dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointments. A number of characteristics about the patient are included in each row and we need to find out the factors that are important in predicting whether a patient shows-up for the appointment or not.</b>
 
 <b>We seek answers to the following questions:</b>
