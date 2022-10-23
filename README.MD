@@ -26,9 +26,38 @@ We seek answers to the following questions:
 ### Process
 
 ### Summary of Findings
+Our analysis revealed the following tentative findings:
+- The proportion of female patiends who missed their appointments is approximately equal to the proportion of male patients who did not show up.
+- Patients in older age groups tends to miss their appointments less than patients in younger groups.
+- Patients enrolled in the scholarship welfare program miss their appointments more than patients who are not enrolled in the scholarship program.
+- Handicapped patients tend to miss their appointments more than not Handicapped patients.
+- There are more no-shows on Fridays and Saturdays than the rest of the weekdays.
+- On average, patients who receive SMS reminder miss heir appointments more than patients who did not get an SMS reminder.
+- Female patients with alcoholism probllem tend to miss their appointments more than male patients with the same problem.
+- Patients with chronic diseases like diabetes and hypertension are more punctual and miss their appointments less than pat without chronic diseases.
+- No-show differs from one neighbourhood to another. After excludiing the two outliers, we can see that the heighest no-show neighbourhood is SANTOS DUMONT with around 29% no-show while the neighbourhood with lowest no-show is ILHA DO BOI with no-show of around 8%.
+
 
 ### Install
+This project requires **Python 3.x** and the following Python libraries installed:
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org)
+- [matplotlib](http://matplotlib.org/)
+
+You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
 ### Code
+Code is provided in the `No_Show_Appointments_Analysis.ipynb` notebook file.
 
 ### Run
+In a terminal or command window, navigate to the top-level project directory (that contains this README) and run one of the following commands:
+
+```bash
+ipython notebook No_Show_Appointments_Analysis.ipynb
+```  
+or
+```bash
+jupyter notebook No_Show_Appointments_Analysis.ipynb
+```
+
+This will open the iPython Notebook software and project file in your browser.
